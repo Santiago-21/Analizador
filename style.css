@@ -58,6 +58,20 @@ h4 {
 .carousel-indicators li.active {
     background-color: #f4511e;
 }
+/* texto mio k*/
+.letritas{
+    font-family: fantasy;
+
+}
+.logito{
+    font-size: 25px;
+    font-family: fantasy;
+}
+.iconos{
+  height: 50px;
+  width: 50px;
+
+}
 .item h4 {
     font-size: 19px;
     line-height: 1.375em;
