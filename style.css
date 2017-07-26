@@ -176,3 +176,10 @@ footer .glyphicon {
       font-size: 150px;
   }
 }
+#submit{
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}

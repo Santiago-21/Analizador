@@ -39,11 +39,11 @@
 <div class="jumbotron text-center">
   <h1>Stalker Tweets</h1>
   <p>We specialize in stalking</p>
-  <form>
+  <form action="https://twitter.com/search">
     <div class="input-group">
-      <input type="email" class="form-control" size="50" placeholder="Email Address" required>
+      <input type="text" class="form-control" size="50"  name="q" placeholder="Escribe usuario de twitter" required>
       <div class="input-group-btn">
-        <button type="button" class="btn btn-secondary">Search</button>
+        <input id="submit" type="submit" name="submittext" value="Analiza">
       </div>
     </div>
   </form>
